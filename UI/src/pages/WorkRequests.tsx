@@ -81,6 +81,7 @@ export const WorkRequests = () => {
           onChange={(event) => setSearchTerm(event.target.value)}
           sx={{ minWidth: 320 }}
         />
+        <label>Click on Title of a work request to view details</label>
       </div>
       <table style={{ width: '100%', borderCollapse: 'collapse' }}>
         <thead>
