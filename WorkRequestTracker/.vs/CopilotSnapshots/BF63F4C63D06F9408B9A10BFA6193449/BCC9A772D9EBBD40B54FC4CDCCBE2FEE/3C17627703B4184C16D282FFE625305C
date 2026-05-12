@@ -1,10 +1,8 @@
-
+﻿
 namespace WorkRequestTracker
 {
     using Microsoft.EntityFrameworkCore;
     using WorkRequestTracker.Data;
-    using WorkRequestTracker.Data.Services;
-    using WorkRequestTracker.Data.Services.Interfaces;
 
     public class Program
     {
@@ -21,9 +19,6 @@ namespace WorkRequestTracker
                     sqlServerOptions => sqlServerOptions.CommandTimeout(60)
                 )
             );
-
-            // Add services
-            builder.Services.AddScoped<IWorkRequestService, WorkRequestService>();
 
             builder.Services.AddControllers();
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
