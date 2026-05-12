@@ -3,12 +3,24 @@ namespace WorkRequestTracker
 {
     using Microsoft.EntityFrameworkCore;
     using WorkRequestTracker.Data;
+    using WorkRequestTracker.Data.Services;
+    using WorkRequestTracker.Data.Services.Interfaces;
 
     public class Program
     {
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowReactApp", policy =>
+                {
+                    policy.WithOrigins("http://localhost:5173")
+                          .AllowAnyHeader()
+                          .AllowAnyMethod();
+                });
+            });
 
             // Add services to the container.
 
@@ -19,6 +31,9 @@ namespace WorkRequestTracker
                     sqlServerOptions => sqlServerOptions.CommandTimeout(60)
                 )
             );
+
+            // Add services
+            builder.Services.AddScoped<IWorkRequestService, WorkRequestService>();
 
             builder.Services.AddControllers();
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
@@ -33,7 +48,9 @@ namespace WorkRequestTracker
             }
 
             app.UseHttpsRedirection();
+            app.UseRouting();
 
+            app.UseCors("AllowReactApp");
             app.UseAuthorization();
 
 

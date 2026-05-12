@@ -3,64 +3,67 @@
   "WorkspaceRootPath": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\workrequesttracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\workrequesttracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\models\\workrequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\models\\workrequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\services\\workrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\services\\workrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\controllers\\workrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\controllers\\workrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\models\\workrequestlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\models\\workrequestlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\entities\\workrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\entities\\workrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\services\\interfaces\\iworkrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\services\\interfaces\\iworkrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\models\\workrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\models\\workrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\workrequestdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\workrequestdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\models\\statusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\models\\statusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\controllers\\workrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\controllers\\workrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\models\\notesupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\models\\notesupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tarun\\AppData\\Local\\Temp\\CopilotBaseline\\2bedf595\\~Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\entities\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\entities\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\models\\workrequestlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\models\\workrequestlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\models\\workrequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\models\\workrequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\entities\\workrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\entities\\workrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\entities\\priorityenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\entities\\priorityenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\models\\workrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\models\\workrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\workrequesttracker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\workrequesttracker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\models\\notesupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\models\\notesupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\workrequestdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\workrequestdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\models\\statusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\models\\statusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\services\\dbinitializerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB869EAF-D753-4457-884E-26E810CABDD5}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\services\\dbinitializerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\entities\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\entities\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|e:\\projects\\flexgcc_assignment\\workrequesttracker\\workrequesttracker\\data\\entities\\priorityenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2871BD45-2202-3A03-C469-1EE4094113EC}|WorkRequestTracker\\WorkRequestTracker.csproj|solutionrelative:workrequesttracker\\data\\entities\\priorityenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,17 +73,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "WorkRequestController.cs",
               "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Controllers\\WorkRequestController.cs",
               "RelativeDocumentMoniker": "WorkRequestTracker\\Controllers\\WorkRequestController.cs",
               "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Controllers\\WorkRequestController.cs",
               "RelativeToolTip": "WorkRequestTracker\\Controllers\\WorkRequestController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCUAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-12T12:18:03.253Z",
               "IsPinned": true,
@@ -88,98 +91,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DbInitializerService.cs",
-              "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Services\\DbInitializerService.cs",
-              "RelativeDocumentMoniker": "WorkRequestTracker\\Data\\Services\\DbInitializerService.cs",
-              "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Services\\DbInitializerService.cs",
-              "RelativeToolTip": "WorkRequestTracker\\Data\\Services\\DbInitializerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "WorkRequestService.cs",
+              "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Services\\WorkRequestService.cs",
+              "RelativeDocumentMoniker": "WorkRequestTracker\\Data\\Services\\WorkRequestService.cs",
+              "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Services\\WorkRequestService.cs",
+              "RelativeToolTip": "WorkRequestTracker\\Data\\Services\\WorkRequestService.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAEwJkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T13:51:11.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "WorkRequestDbContext.cs",
-              "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\WorkRequestDbContext.cs",
-              "RelativeDocumentMoniker": "WorkRequestTracker\\Data\\WorkRequestDbContext.cs",
-              "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\WorkRequestDbContext.cs",
-              "RelativeToolTip": "WorkRequestTracker\\Data\\WorkRequestDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T13:50:52.01Z",
+              "WhenOpened": "2026-05-12T14:03:03.344Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WorkRequestTracker",
-              "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\WorkRequestTracker.csproj",
-              "RelativeDocumentMoniker": "WorkRequestTracker\\WorkRequestTracker.csproj",
-              "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\WorkRequestTracker.csproj",
-              "RelativeToolTip": "WorkRequestTracker\\WorkRequestTracker.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-12T13:50:46.355Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Program.cs",
+              "RelativeDocumentMoniker": "WorkRequestTracker\\Program.cs",
+              "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Program.cs",
+              "RelativeToolTip": "WorkRequestTracker\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:17:33.803Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WorkRequestViewModel.cs",
-              "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Models\\WorkRequestViewModel.cs",
-              "RelativeDocumentMoniker": "WorkRequestTracker\\Data\\Models\\WorkRequestViewModel.cs",
-              "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Models\\WorkRequestViewModel.cs",
-              "RelativeToolTip": "WorkRequestTracker\\Data\\Models\\WorkRequestViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T13:18:52.307Z",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WorkRequestTracker\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WorkRequestTracker\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-12T16:14:11.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "WorkRequestListViewModel.cs",
-              "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Models\\WorkRequestListViewModel.cs",
-              "RelativeDocumentMoniker": "WorkRequestTracker\\Data\\Models\\WorkRequestListViewModel.cs",
-              "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Models\\WorkRequestListViewModel.cs",
-              "RelativeToolTip": "WorkRequestTracker\\Data\\Models\\WorkRequestListViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T13:18:02.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WorkRequestDto.cs",
-              "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Models\\WorkRequestDto.cs",
-              "RelativeDocumentMoniker": "WorkRequestTracker\\Data\\Models\\WorkRequestDto.cs",
-              "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Models\\WorkRequestDto.cs",
-              "RelativeToolTip": "WorkRequestTracker\\Data\\Models\\WorkRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T13:17:01.503Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "WorkRequestTracker\\appsettings.json",
+              "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\appsettings.json",
+              "RelativeToolTip": "WorkRequestTracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-12T15:14:21.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "NotesUpdateDto.cs",
-              "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Models\\NotesUpdateDto.cs",
-              "RelativeDocumentMoniker": "WorkRequestTracker\\Data\\Models\\NotesUpdateDto.cs",
-              "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Models\\NotesUpdateDto.cs",
-              "RelativeToolTip": "WorkRequestTracker\\Data\\Models\\NotesUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Title": "~Program.cs",
+              "DocumentMoniker": "C:\\Users\\tarun\\AppData\\Local\\Temp\\CopilotBaseline\\2bedf595\\~Program.cs",
+              "ToolTip": "C:\\Users\\tarun\\AppData\\Local\\Temp\\CopilotBaseline\\2bedf595\\~Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T13:07:25.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T14:47:59.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
+              "Title": "WorkRequestDto.cs",
+              "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Models\\WorkRequestDto.cs",
+              "RelativeDocumentMoniker": "WorkRequestTracker\\Data\\Models\\WorkRequestDto.cs",
+              "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Models\\WorkRequestDto.cs",
+              "RelativeToolTip": "WorkRequestTracker\\Data\\Models\\WorkRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T13:17:01.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkRequestViewModel.cs",
+              "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Models\\WorkRequestViewModel.cs",
+              "RelativeDocumentMoniker": "WorkRequestTracker\\Data\\Models\\WorkRequestViewModel.cs",
+              "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Models\\WorkRequestViewModel.cs",
+              "RelativeToolTip": "WorkRequestTracker\\Data\\Models\\WorkRequestViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T13:18:52.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkRequestListViewModel.cs",
+              "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Models\\WorkRequestListViewModel.cs",
+              "RelativeDocumentMoniker": "WorkRequestTracker\\Data\\Models\\WorkRequestListViewModel.cs",
+              "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Models\\WorkRequestListViewModel.cs",
+              "RelativeToolTip": "WorkRequestTracker\\Data\\Models\\WorkRequestListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T13:18:02.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkRequestDbContext.cs",
+              "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\WorkRequestDbContext.cs",
+              "RelativeDocumentMoniker": "WorkRequestTracker\\Data\\WorkRequestDbContext.cs",
+              "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\WorkRequestDbContext.cs",
+              "RelativeToolTip": "WorkRequestTracker\\Data\\WorkRequestDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T13:50:52.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "StatusUpdateDto.cs",
               "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Models\\StatusUpdateDto.cs",
               "RelativeDocumentMoniker": "WorkRequestTracker\\Data\\Models\\StatusUpdateDto.cs",
@@ -187,12 +211,23 @@
               "RelativeToolTip": "WorkRequestTracker\\Data\\Models\\StatusUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T13:06:07.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T13:06:07.653Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
+              "Title": "NotesUpdateDto.cs",
+              "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Models\\NotesUpdateDto.cs",
+              "RelativeDocumentMoniker": "WorkRequestTracker\\Data\\Models\\NotesUpdateDto.cs",
+              "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Models\\NotesUpdateDto.cs",
+              "RelativeToolTip": "WorkRequestTracker\\Data\\Models\\NotesUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T13:07:25.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "StatusEnum.cs",
               "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Entities\\StatusEnum.cs",
               "RelativeDocumentMoniker": "WorkRequestTracker\\Data\\Entities\\StatusEnum.cs",
@@ -200,12 +235,11 @@
               "RelativeToolTip": "WorkRequestTracker\\Data\\Entities\\StatusEnum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T12:22:13.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T12:22:13.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "PriorityEnum.cs",
               "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Entities\\PriorityEnum.cs",
               "RelativeDocumentMoniker": "WorkRequestTracker\\Data\\Entities\\PriorityEnum.cs",
@@ -213,59 +247,52 @@
               "RelativeToolTip": "WorkRequestTracker\\Data\\Entities\\PriorityEnum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T12:20:12.323Z",
-              "EditorCaption": ""
-            },
+              "WhenOpened": "2026-05-12T12:20:12.323Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "edc3c553-cf6d-4b32-a4b4-8ba1b6ef8f8d",
+        "Display": 1,
+        "X": 681,
+        "Y": 256,
+        "Width": 1578,
+        "Height": 1078,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\appsettings.json",
-              "RelativeDocumentMoniker": "WorkRequestTracker\\appsettings.json",
-              "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\appsettings.json",
-              "RelativeToolTip": "WorkRequestTracker\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-12T12:17:58.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "WorkRequest.cs",
               "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Entities\\WorkRequest.cs",
               "RelativeDocumentMoniker": "WorkRequestTracker\\Data\\Entities\\WorkRequest.cs",
               "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Entities\\WorkRequest.cs",
               "RelativeToolTip": "WorkRequestTracker\\Data\\Entities\\WorkRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T12:17:38.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T12:17:38.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "WorkRequestTracker.http",
-              "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\WorkRequestTracker.http",
-              "RelativeDocumentMoniker": "WorkRequestTracker\\WorkRequestTracker.http",
-              "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\WorkRequestTracker.http",
-              "RelativeToolTip": "WorkRequestTracker\\WorkRequestTracker.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-05-12T12:17:42.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Program.cs",
-              "RelativeDocumentMoniker": "WorkRequestTracker\\Program.cs",
-              "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Program.cs",
-              "RelativeToolTip": "WorkRequestTracker\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IWorkRequestService.cs",
+              "DocumentMoniker": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Services\\Interfaces\\IWorkRequestService.cs",
+              "RelativeDocumentMoniker": "WorkRequestTracker\\Data\\Services\\Interfaces\\IWorkRequestService.cs",
+              "ToolTip": "E:\\Projects\\FlexGCC_Assignment\\WorkRequestTracker\\WorkRequestTracker\\Data\\Services\\Interfaces\\IWorkRequestService.cs",
+              "RelativeToolTip": "WorkRequestTracker\\Data\\Services\\Interfaces\\IWorkRequestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T12:17:33.803Z",
+              "WhenOpened": "2026-05-12T14:02:55.23Z",
               "EditorCaption": ""
             }
           ]
