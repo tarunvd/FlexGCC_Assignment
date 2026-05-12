@@ -12,6 +12,16 @@ namespace WorkRequestTracker
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowReactApp", policy =>
+                {
+                    policy.WithOrigins("http://localhost:5173")
+                          .AllowAnyHeader()
+                          .AllowAnyMethod();
+                });
+            });
+
             // Add services to the container.
 
             // Add DbContext with SQL Server
@@ -38,7 +48,9 @@ namespace WorkRequestTracker
             }
 
             app.UseHttpsRedirection();
+            app.UseRouting();
 
+            app.UseCors("AllowReactApp");
             app.UseAuthorization();
 
 

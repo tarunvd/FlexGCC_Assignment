@@ -37,10 +37,6 @@ namespace WorkRequestTracker.Data.Services
                 {
                     statusFilter = w => w.Status == (StatusEnum)statusValue;
                 }
-                else
-                {
-                    this.logger.LogWarning("Invalid status filter value: {Status}", status);
-                }
             }
 
             return statusFilter;
@@ -53,10 +49,6 @@ namespace WorkRequestTracker.Data.Services
             if (!string.IsNullOrWhiteSpace(search))
             {
                 searchFilter = w => w.Title.Contains(search) || w.ClientName.Contains(search);
-            }
-            else
-            {
-                this.logger.LogWarning("Invalid search filter value: {Search}", search);
             }
 
             return searchFilter;
