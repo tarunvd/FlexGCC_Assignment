@@ -4,16 +4,26 @@ namespace WorkRequestTracker.Data.Models
 {
     public class WorkRequestListViewModel
     {
-        public required int Id { get; set; }
+        public WorkRequestListViewModel(WorkRequest workRequest)
+        {
+            Id = workRequest.Id;
+            Title = workRequest.Title;
+            ClientName = workRequest.ClientName;
+            Priority = workRequest.Priority;
+            Status = workRequest.Status;
+            DueDate = workRequest.DueDate;
+        }
 
-        public required string Title { get; set; }
+        public int Id { get; set; }
 
-        public required string ClientName { get; set; }
+        public string Title { get; set; }
 
-        public required PriorityEnum Priority { get; set; }
+        public string ClientName { get; set; }
+
+        public PriorityEnum Priority { get; set; }
         
-        public required StatusEnum Status { get; set; }
+        public StatusEnum Status { get; set; }
 
-        public required DateTime DueDate { get; set; }
+        public DateTime DueDate { get; set; }
     }
 }

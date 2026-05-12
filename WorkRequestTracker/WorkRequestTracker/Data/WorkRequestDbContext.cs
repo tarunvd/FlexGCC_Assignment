@@ -25,14 +25,15 @@ namespace WorkRequestTracker.Data
 
                 entity.Property(e => e.Title)
                     .IsRequired()
-                    .HasMaxLength(500);
+                    .HasMaxLength(100);
 
                 entity.Property(e => e.ClientName)
                     .IsRequired()
-                    .HasMaxLength(500);
+                    .HasMaxLength(100);
 
                 entity.Property(e => e.Description)
-                    .IsRequired();
+                    .IsRequired()
+                    .HasMaxLength(2000);
 
                 entity.Property(e => e.Priority)
                     .IsRequired()
@@ -48,16 +49,15 @@ namespace WorkRequestTracker.Data
                 entity.Property(e => e.CreatedDate)
                     .IsRequired();
 
-                entity.Property(e => e.UpdatedDate)
-                    .IsRequired();
+                entity.Property(e => e.UpdatedDate);
 
                 entity.Property(e => e.Notes)
                     .HasMaxLength(2000);
 
                 // Create indexes for better query performance
                 entity.HasIndex(e => e.Status);
-                entity.HasIndex(e => e.Priority);
-                entity.HasIndex(e => e.DueDate);
+                entity.HasIndex(e => e.Title);
+                entity.HasIndex(e => e.ClientName);
             });
         }
     }

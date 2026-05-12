@@ -2,7 +2,7 @@ namespace WorkRequestTracker.Data.Entities
 {
     public class WorkRequest
     {
-        public required int Id { get; set; }
+        public int Id { get; set; }
 
         public required string Title { get; set; }
 
@@ -18,7 +18,7 @@ namespace WorkRequestTracker.Data.Entities
 
         public required DateTime CreatedDate { get; set; }
         
-        public required DateTime UpdatedDate { get; set; }
+        public DateTime? UpdatedDate { get; set; }
 
         public string? Notes { get; set; }
     }

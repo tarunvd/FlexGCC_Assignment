@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using WorkRequestTracker.Data.Models;
+using WorkRequestTracker.Data.Services.Interfaces;
 
 namespace WorkRequestTracker.Controllers
 {
@@ -7,46 +8,46 @@ namespace WorkRequestTracker.Controllers
     [Route("api/work-requests")]
     public class WorkRequestController : ControllerBase
     {
-        private readonly ILogger<WorkRequestController> _logger;
+        private readonly IWorkRequestService workRequestService;
 
-        public WorkRequestController(ILogger<WorkRequestController> logger)
+        public WorkRequestController(IWorkRequestService workRequestService)
         {
-            _logger = logger;
+            this.workRequestService = workRequestService;
         }
 
         [HttpGet]
-        public IEnumerable<WorkRequestListViewModel> GetWorkRequests(
+        public async Task<IEnumerable<WorkRequestListViewModel>> GetWorkRequests(
             [FromQuery] int? status,
             [FromQuery] string? search,
             [FromQuery] int? page,
             [FromQuery] int? pageSize,
             CancellationToken cancellationToken)
         {
-            return Enumerable.Empty<WorkRequestListViewModel>();
+            return await this.workRequestService.GetListAsync(status, search, page, pageSize, cancellationToken);
         }
 
         [HttpGet("{id}")]
-        public WorkRequestViewModel? GetWorkRequestById(int id, CancellationToken cancellationToken)
+        public async Task<WorkRequestViewModel?> GetWorkRequestById(int id, CancellationToken cancellationToken)
         {
-            return null;
+            return await this.workRequestService.GetByIdAsync(id, cancellationToken);
         }
 
         [HttpPost]
-        public int? CreateWorkRequest(WorkRequestDto workRequest, CancellationToken cancellationToken)
+        public async Task<WorkRequestViewModel> CreateWorkRequest(WorkRequestDto workRequest, CancellationToken cancellationToken)
         {
-            return null;
+            return await this.workRequestService.CreateAsync(workRequest, cancellationToken);
         }
 
         [HttpPatch("{id}/status")]
-        public int? UpdateWorkRequestStatus(int id, [FromBody] StatusUpdateDto status, CancellationToken cancellationToken)
+        public async Task<WorkRequestViewModel> UpdateWorkRequestStatus(int id, [FromBody] StatusUpdateDto status, CancellationToken cancellationToken)
         {
-            return null;
+            return await this.workRequestService.UpdateStatusAsync(id, status, cancellationToken);
         }
 
         [HttpPatch("{id}/notes")]
-        public int? UpdateWorkRequestNotes(int id, [FromBody] NotesUpdateDto notes, CancellationToken cancellationToken)
+        public async Task<WorkRequestViewModel> UpdateWorkRequestNotes(int id, [FromBody] NotesUpdateDto notes, CancellationToken cancellationToken)
         {
-            return null;
+            return await this.workRequestService.UpdateNotesAsync(id, notes, cancellationToken);
         }
     }
 }
