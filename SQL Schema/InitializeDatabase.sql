@@ -1,0 +1,35 @@
+
+USE [master]
+GO
+
+-- NOTE: UPDATE PATH IN FILENAME PARAMATER AS PER LOCAL CONFIGURATION
+CREATE DATABASE [WorkRequestsDB]
+ CONTAINMENT = NONE
+ ON  PRIMARY 
+( NAME = N'WorkRequestsDB', FILENAME = N'C:\Program Files\Microsoft SQL Server\MSSQL16.SQLEXPRESS\MSSQL\DATA\WorkRequestsDB.mdf' , SIZE = 8192KB , MAXSIZE = UNLIMITED, FILEGROWTH = 65536KB )
+ LOG ON 
+( NAME = N'WorkRequestsDB_log', FILENAME = N'C:\Program Files\Microsoft SQL Server\MSSQL16.SQLEXPRESS\MSSQL\DATA\WorkRequestsDB_log.ldf' , SIZE = 8192KB , MAXSIZE = 2048GB , FILEGROWTH = 65536KB )
+ WITH CATALOG_COLLATION = DATABASE_DEFAULT, LEDGER = OFF
+GO
+
+USE [WorkRequestsDB]
+GO
+
+CREATE TABLE [dbo].[WorkRequests]
+(
+    [Id] INT NOT NULL PRIMARY KEY IDENTITY(1,1),
+    [Title] NVARCHAR(100) NOT NULL,
+    [ClientName] NVARCHAR(100) NOT NULL,
+    [Description] NVARCHAR(MAX) NOT NULL,
+    [Priority] INT NOT NULL DEFAULT 0,
+    [Status] INT NOT NULL DEFAULT 0,
+    [DueDate] DATETIME2 NOT NULL,
+    [CreatedDate] DATETIME2 NOT NULL,
+    [UpdatedDate] DATETIME2 NOT NULL,
+    [Notes] NVARCHAR(MAX) NULL
+);
+
+-- INDEXES ARE CREATED BELOW ON COLUMNS THAT WILL BE USED IN SEARCHING
+CREATE INDEX IX_WorkRequests_Status ON [dbo].[WorkRequests]([Status]);
+CREATE INDEX IX_WorkRequests_Title ON [dbo].[WorkRequests]([Title]);
+CREATE INDEX IX_WorkRequests_ClientName ON [dbo].[WorkRequests]([ClientName]);
